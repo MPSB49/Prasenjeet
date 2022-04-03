@@ -1,0 +1,37 @@
+body {
+    background-color: #15121C;
+}
+.navbar {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.social {
+    background-color: #1B1923;
+    color: #DADAE8;
+    border-radius: 15px;
+    width: 162px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+.twitter {
+     color: #DADAE8;
+ }
+
+.twitter:hover {
+    transform: scale(1.5);
+ }
+
+
+ .instagram {
+    color: #DADAE8;
+}
+
+.instagram:hover {
+   transform: scale(1.5);
+}
+
